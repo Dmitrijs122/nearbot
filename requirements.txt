@@ -1,9 +1,0 @@
-# requirements.txt — все зависимости Python проекта
-# Установка: pip install -r requirements.txt
-
-python-telegram-bot==21.6     # Библиотека для Telegram бота
-fastapi==0.115.0              # Веб-сервер (API)
-uvicorn==0.30.6               # Запуск FastAPI сервера
-httpx==0.27.2                 # Для HTTP запросов к Overpass API и Wikimedia
-groq==0.11.0                  # Клиент для Groq AI (бесплатный AI)
-python-dotenv==1.0.1          # Загрузка .env файла
